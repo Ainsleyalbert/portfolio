@@ -115,7 +115,7 @@ Here is what I did at those places
 
 Everything for me, as for many others, revolves around family, friends, and food.
 
-- My mother told me that I was Irish, welsh. and Hungarian, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
+- My mother told me that I was Irish, welsh. and Hungarian.
 - My family is pretty Small becuse it is just me, my mom, my dad, my sister, and my dog.
 - The gallery of pics has some of my family, friends, and my dog.
 
@@ -124,7 +124,7 @@ Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/1.jpeg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/1FB882DD-D216-436D-8A71-31090745E21E_1_102_o.jpeg.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/1FB882DD-D216-436D-8A71-31090745E21E_1_102_o.jpeg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/DF5EF092-F841-4E0C-8E93-6C515D8A9A4F_1_105_c.jpeg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/580B6F07-6F42-4CCF-810B-C342675F913F_1_102_o.jpeg" alt="Image 4">
   <img src="{{site.baseurl}}/images/about/DDB37387-B688-4B7A-99E7-9E55783C6A3C_1_102_o.jpeg" alt="Image 5">
