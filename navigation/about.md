@@ -61,7 +61,7 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "e/ec/Flag_of_Florida.svg", "greeting": "Hello", "description": "Florida, Disneyworld"},
+        {"flag": "f/f7/Flag_of_Florida.svg", "greeting": "Hello", "description": "Florida, Disneyworld"},
         {"flag": "2/22/Flag_of_Wisconsin.svg", "greeting": "Hey there", "description": "Wisconsin, Go Badgers"},
         {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - Maui and Alani"},
     ];
@@ -124,8 +124,8 @@ Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/1.jpeg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/images/about/1FB882DD-D216-436D-8A71-31090745E21E_1_102_o.jpeg.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/images/about/DF5EF092-F841-4E0C-8E93-6C515D8A9A4F_1_105_c.jpeg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/images/about/580B6F07-6F42-4CCF-810B-C342675F913F_1_102_o.jpeg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/images/about/DDB37387-B688-4B7A-99E7-9E55783C6A3C_1_102_o.jpeg" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/1FB882DD-D216-436D-8A71-31090745E21E_1_102_o.jpeg.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/DF5EF092-F841-4E0C-8E93-6C515D8A9A4F_1_105_c.jpeg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/580B6F07-6F42-4CCF-810B-C342675F913F_1_102_o.jpeg" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/DDB37387-B688-4B7A-99E7-9E55783C6A3C_1_102_o.jpeg" alt="Image 5">
 </div>
